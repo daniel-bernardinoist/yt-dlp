@@ -1964,6 +1964,11 @@ from .streetvoice import StreetVoiceIE
 from .stretchinternet import StretchInternetIE
 from .stripchat import StripchatIE
 from .stv import STVPlayerIE
+from .submedia import (
+    SubMediaIE,
+    SubMediaListIE,
+    SubMediaPageIE,
+)
 from .subsplash import (
     SubsplashIE,
     SubsplashPlaylistIE,
